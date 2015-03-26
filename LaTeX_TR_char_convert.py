@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-This little script converts Turkish characters in a file to LaTeX format
+This handy little script converts Turkish characters in a file to LaTeX format
 """
 
 
